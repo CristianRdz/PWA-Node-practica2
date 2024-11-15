@@ -1,0 +1,46 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "Tilín: La Película",
+            "director": "M. Night Shyamalan",
+            "clasificacion": "Drama"
+        },
+        {
+            "id": 2,
+            "nombre": "El Misterio del Taco Perdido",
+            "director": "Guillermo del Toro",
+            "clasificacion": "Comedia"
+        },
+        {
+            "id": 3,
+            "nombre": "Aventuras en el Multiverso",
+            "director": "Christopher Nolan",
+            "clasificacion": "Ciencia Ficción"
+        },
+        {
+            "id": 4,
+            "nombre": "El Último Café",
+            "director": "Greta Gerwig",
+            "clasificacion": "Romance"
+        },
+        {
+            "id": 5,
+            "nombre": "La Batalla de los Sombreros",
+            "director": "Taika Waititi",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 6,
+            "nombre": "Cantos del Pasado",
+            "director": "Chloé Zhao",
+            "clasificacion": "Histórica"
+        },
+        {
+            "id": 7,
+            "nombre": "Galletas Espaciales",
+            "director": "Jon Favreau",
+            "clasificacion": "Fantasía"
+        }
+    ]
+}
